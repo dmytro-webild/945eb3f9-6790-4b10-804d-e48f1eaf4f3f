@@ -65,7 +65,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/meat-doner-with-bread-table_140725-4812.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/meat-doner-with-bread-table_140725-4812.jpg?_wi=1"
       imageAlt="Authentic Palestinian shawarma close-up"
       mediaAnimation="blur-reveal"
       avatars={[
@@ -134,7 +134,7 @@ export default function LandingPage() {
           quote: "Best chicken shawarma I have ever tried in my life.",
           tag: "Authentic",
           avatarSrc: "http://img.b2bpic.net/free-photo/person-indian-origin-having-fun_23-2150285278.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/meat-doner-with-bread-table_140725-4812.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/meat-doner-with-bread-table_140725-4812.jpg?_wi=2",
           imageAlt: "customer eating shawarma sandwich",
         },
         {
@@ -167,7 +167,7 @@ export default function LandingPage() {
           quote: "Très bon et pas cher. A must-visit place in Casablanca.",
           tag: "Great Value",
           avatarSrc: "http://img.b2bpic.net/free-photo/front-view-delicious-sliced-shaurma-meat-sandwich-with-lemon-greens-dark-space_140725-95193.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/candy-girl-kitchen_1150-10006.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/candy-girl-kitchen_1150-10006.jpg?_wi=1",
           imageAlt: "customer eating shawarma sandwich",
         },
         {
@@ -178,7 +178,7 @@ export default function LandingPage() {
           quote: "Every single visit feels consistent and satisfying.",
           tag: "Loyalty",
           avatarSrc: "http://img.b2bpic.net/free-photo/sandwich-lavash-wooden-platter_114579-3506.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-chicken-breast-served-with-bell-peppers-cherry-tomato-olives-1_140725-8590.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-chicken-breast-served-with-bell-peppers-cherry-tomato-olives-1_140725-8590.jpg?_wi=1",
           imageAlt: "customer eating shawarma sandwich",
         },
       ]}
@@ -250,13 +250,13 @@ export default function LandingPage() {
         {
           title: "Fresh Homemade Bread",
           description: "Baked from scratch in-house daily for every single order.",
-          imageSrc: "http://img.b2bpic.net/free-photo/candy-girl-kitchen_1150-10006.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/candy-girl-kitchen_1150-10006.jpg?_wi=2",
           imageAlt: "Fresh flatbread",
         },
         {
           title: "Fast, Ritual Service",
           description: "Experience efficient service without compromising the quality of your meal.",
-          imageSrc: "http://img.b2bpic.net/free-photo/grilled-chicken-breast-served-with-bell-peppers-cherry-tomato-olives-1_140725-8590.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/grilled-chicken-breast-served-with-bell-peppers-cherry-tomato-olives-1_140725-8590.jpg?_wi=2",
           imageAlt: "Grill station",
         },
       ]}
